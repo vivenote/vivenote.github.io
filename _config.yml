@@ -20,10 +20,10 @@
 
 title: Vivenote
 email: freemolto@gmail.com
-domain: korzhuck.github.io
+domain: vivenote.github.io
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/vivenote/" # the subpath of your site, e.g. /blog
-url: "http://korzhuck.github.io/vivenote/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://vivenote.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: korzhuck
 
 # Build settings
