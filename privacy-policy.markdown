@@ -55,6 +55,6 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 **CONTACT US**
 
-If you have questions or comments about this Privacy Policy, please contact us at: freemolto@gmail.com
+If you have questions or comments about this Privacy Policy, please contact us at: vivenoteapp@gmail.com
 
 Last updated: August 19, 2024
