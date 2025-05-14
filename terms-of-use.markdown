@@ -155,7 +155,7 @@ These Terms and Conditions and any policies or operating rules posted by us in t
 
 ##### CONTACT US 
 
-In order to resolve a complaint regarding the App or to receive further information regarding use of the App, please contact us at: freemolto@gmail.com
+In order to resolve a complaint regarding the App or to receive further information regarding use of the App, please contact us at: vivenoteapp@gmail.com
 
 
 Last updated: March 9, 2024
